@@ -1,0 +1,36 @@
+{
+  "name": "duck-module",
+  "version": "1.0.0",
+  "description": "A series of modules (a library) that can be brought into any server to handle routing. Publish on npm so you can use the require function on future javascript files.",
+  "main": "framework.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heyduckd/create-a-framework.git"
+  },
+  "keywords": [
+    "npm",
+    "server",
+    "library",
+    "modules"
+  ],
+  "author": "David Heyduck",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heyduckd/create-a-framework/issues"
+  },
+  "homepage": "https://github.com/heyduckd/create-a-framework#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "chai-http": "^2.0.1",
+    "eslint": "^2.4.0",
+    "gulp": "^3.9.1",
+    "gulp-eslint": "^2.0.0",
+    "gulp-mocha": "^2.2.0"
+  }
+}
