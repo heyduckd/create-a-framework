@@ -1,7 +1,7 @@
 {
   "name": "duck-module",
-  "version": "1.0.0",
-  "description": "A series of modules (a library) that can be brought into any server to handle routing. Publish on npm so you can use the require function on future javascript files.",
+  "version": "1.0.1",
+  "description": "A small library that provides routing for GET, POST, and DELETE requests on an HTTP server.",
   "main": "framework.js",
   "directories": {
     "test": "test"
