@@ -36,8 +36,8 @@ duckRouter.patch('/penguins', function(req, res) {
   res.end();
 })
 
-duckRouter.delet('/penguins', function(req, res) {
-  res.write('got DELET request to /penguins');
+duckRouter.delete('/penguins', function(req, res) {
+  res.write('got DELETE request to /penguins');
   res.end();
 })
 

@@ -1,6 +1,6 @@
 {
   "name": "duck-module",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A small library that provides routing for GET, POST, and DELETE requests on an HTTP server.",
   "main": "framework.js",
   "directories": {
